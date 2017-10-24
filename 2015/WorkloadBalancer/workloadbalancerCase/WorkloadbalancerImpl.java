@@ -7,6 +7,14 @@ public class WorkloadbalancerImpl {
 		//
 		// Implement Here
 		//
+
+		//first create 2 lists for each processor
+		//sort on value
+		//divide over each day
+
+		orders
+
+
 		return null;
 	}
 
