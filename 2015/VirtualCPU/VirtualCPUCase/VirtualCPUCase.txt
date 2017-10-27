@@ -22,7 +22,7 @@ To do that, the CPU uses the following instructions:
     destRegister + sourceRegister -> destRegister
 
   out sourceRegister, port
-    sourceRgister -> port
+    sourceRegister -> port
     sourceRegister [0-7]
     port [0-15]
   
