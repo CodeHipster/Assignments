@@ -49,7 +49,7 @@ Input:
 	4481 : processor 3					
 */
 
-public class WorkloadbalancerTester{
+public class WorkloadbalancerTester {
 	
 	private static final String[] NAMES=new String[] {
 			"Check days in list",
@@ -81,7 +81,7 @@ public class WorkloadbalancerTester{
 		//
 		// Create a new Instance for each test.
 		//
-		WorkLoadBalancer instance=new WorkLoadBalancer();
+		WorkloadbalancerImpl instance=new WorkloadbalancerImpl();
 		int threeDayJob = 3;
 		int twoDayJob = 2;
 		List<List<Order>> orders = null;
